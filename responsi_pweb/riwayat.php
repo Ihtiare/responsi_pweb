@@ -14,7 +14,7 @@
     <?php
         $fp = fopen("struk.txt","r");
         echo "<table width=1000px height=200px align=center border=0 bordercolor=black>";
-        echo "<tr>
+        echo "<tr align=center>
         <th>Tanggal Pembelian</th>
         <th>Nama</th>
         <th>Jumlah Liter</th>
